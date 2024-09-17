@@ -8,8 +8,6 @@ public class Divide {
    * <p>divide(15, 3) => 5
    */
   static float divide(float x, float y) {
-    var result = x / y;
-    return result;
-
+    return x / y;
   }
 }
